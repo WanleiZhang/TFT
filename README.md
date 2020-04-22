@@ -1,4 +1,4 @@
-# TFT
+# RIOT TFT (Team Fight Tactics)
 
 
 Crawling TeamFightTactics match data from RIOT API
