@@ -1,2 +1,8 @@
 # TFT
-Crawling TeamFightTactics data from RIOT API, parsing and store in SQLLite for data modelling
+
+
+Crawling TeamFightTactics match data from RIOT API
+
+Parsing/celaning and storing the data in SQLLite for data modelling
+
+Testing the data with some statistical models
